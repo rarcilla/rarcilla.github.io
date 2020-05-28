@@ -1,23 +1,24 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Regina</strong> Arcilla
+description: BSc. CS '20 @ UBC Vancouver. 🇨🇦
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm **Regina**, a fourth year undergrad studying Computer Science at the University of British Columbia, with an expected graduation date of November 2020.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+After taking a seminar at school, I have taken a keen interest in mobile development and an excitement to explore all things related to the Swift language and it's ecosystem. _(Learning SwiftUI and Combine at the moment! 05/2020)_
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Aside from programming, I also enjoy the design and research process behind creating meaningful user experiences.
+
+When I'm not busy studying, I like spending time with my [dog](https://www.instagram.com/george_der_schnauzer/){:target="\_blank"}, learning new languages (I've taken intro to Mandarin, and currently taking German writing course!), and trying new brunch spots around Vancouver.
+
+I am open to full-time job opportunities for Fall 2020. If you would like to chat, please feel free to [reach out!](mailto:regina.arcilla@alumni.ubc.ca)
