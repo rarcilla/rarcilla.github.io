@@ -2,7 +2,6 @@
 layout: page
 title: Covid-19 Tracker
 description: A SwiftUI App
-img: /assets/img/covid19-tracker_thumbnail.png
 ---
 
 A Covid19 Tracking app built with SwiftUI 1.0. [View this project's GitHub repo](https://github.com/rarcilla/Covid19-Tracker).
