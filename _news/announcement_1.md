@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-06-22 0:00:00-0000
+date: 2020-06-22
 inline: true
 ---
 
