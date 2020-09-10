@@ -7,6 +7,8 @@ img:
 
 Inspired by the Pomodoro Technique, PomClock uses a Pomeranian, in place of the traditional Pomodoro, to track Work Intervals.
 
+[Download PomClock 1.0](https://apps.apple.com/app/id1531189112)
+
 ### PomClock Privacy Policy:
 
 - PomClock does not collect, use, save, or have access to any of your personal data.
