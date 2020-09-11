@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Regina</strong> Arcilla
-description: BSc. CS '20 @ UBC Vancouver 🇨🇦 | Product-Focused Software Engineer
+description: BSc. CS '20 @ UBC Vancouver 🇨🇦 | iOS Developer
 
 profile:
   align: right
